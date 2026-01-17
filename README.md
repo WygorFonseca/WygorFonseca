@@ -8,9 +8,7 @@ Ps.: We can also talk about security flaws
 
 <hr />
 
-<a href="https://git.io/streak-stats">
-  <img height="200" style="max-width: 400px; min-width:400px; width: 100%;" align="center" src="https://streak-stats.demolab.com?user=WygorFonseca&theme=radical&border_radius=8&card_width=500" alt="GitHub Streak" />
-</a>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=WygorFonseca&theme=radical)
 
 <br />
 <br />
