@@ -8,7 +8,11 @@ Ps.: We can also talk about security flaws
 
 <hr />
 
+<div align="center">
+  
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=WygorFonseca&theme=radical)
+
+</div>
 
 <br />
 <br />
